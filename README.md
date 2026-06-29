@@ -32,9 +32,11 @@ Normalization-Mini-Project/
 ├── Normalization_Project.sql
 ├── screenshots/
 │   ├── 1NF.png
-│   ├── 2NF.png
-│   ├── 3NF.png
-│   └── Output Screenshots
+│   ├── 2NF(1).png
+|   ├── 2NF(2).png 
+│   ├── 3NF(1).png
+│   ├── 3NF(2).png
+|
 └── README.md
 ```
 
