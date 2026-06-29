@@ -26,20 +26,64 @@ by creating well-structured relational tables using MySQL.
 
 ## 📂 Project Structure
 
-```
+
 Normalization-Mini-Project/
 │
-├── Normalization_Project.sql
-├── screenshots/
-│   ├── 1NF.png
-│   ├── 2NF(1).png
-|   ├── 2NF(2).png 
-│   ├── 3NF(1).png
-│   ├── 3NF(2).png
-|
-└── README.md
+├── 📄 README.md
+├── 📄 Normalization_Project.sql
+│
+└── 📁 screenshots
+    │
+    ├── 📁 1NF
+    │   ├── create_table_member_hobbies.jpeg
+    │   ├── insert_table_member_hobbies.jpeg
+    │   └── output.png
+    │
+    ├── 📁 2 NF
+    │   ├── create_table_employee.jpeg
+    │   ├── create_table_employee_training.jpeg
+    │   ├── insert_table_employee.jpeg
+    │   ├── insert_table_employee_training.jpeg
+    │   ├── 2NF(1).png.png
+    │   └── 2NF(2).png.png
+    │
+    └── 📁 3 NF
+        ├── create_table_member.jpeg
+        ├── create_table_sports.jpeg
+        ├── insert_table_member.jpeg
+        ├── insert_table_sports.jpeg
+        ├── 3NF(1).png.png
+        └── 3NF(2).png.png
 ```
+## 🏗️ Project Workflow
 
+```
+Input Data
+     │
+     ▼
+Create Database
+     │
+     ▼
+Create Tables
+     │
+     ▼
+Insert Records
+     │
+     ▼
+Apply 1NF
+     │
+     ▼
+Apply 2NF
+     │
+     ▼
+Apply 3NF
+     │
+     ▼
+Execute SQL Queries
+     │
+     ▼
+View Results in MySQL Workbench
+```
 ---
 
 ## 📖 Database Normalization
